@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>add</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add">
+            <g>
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M19.5,11.5 L12.5,11.5 L12.5,4.5 C12.5,4.224 12.276,4 12,4 C11.724,4 11.5,4.224 11.5,4.5 L11.5,11.5 L4.5,11.5 C4.224,11.5 4,11.724 4,12 C4,12.276 4.224,12.5 4.5,12.5 L11.5,12.5 L11.5,19.5 C11.5,19.776 11.724,20 12,20 C12.276,20 12.5,19.776 12.5,19.5 L12.5,12.5 L19.5,12.5 C19.776,12.5 20,12.276 20,12 C20,11.724 19.776,11.5 19.5,11.5" id="Fill-1" fill="#221F20"></path>
+            </g>
+        </g>
+    </g>
+</svg>

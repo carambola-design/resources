@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>options</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="options" fill="#020302">
+            <g id="Page-1" transform="translate(10.000000, 5.000000)">
+                <g id="Group-7">
+                    <path d="M3.502,1.5059 C3.502,2.3339 2.829,3.0069 2,3.0069 C1.171,3.0069 0.498,2.3339 0.498,1.5059 C0.498,0.6759 1.171,0.0039 2,0.0039 C2.829,0.0039 3.502,0.6759 3.502,1.5059" id="Fill-1"></path>
+                    <path d="M3.502,7.0107 C3.502,7.8397 2.829,8.5117 2,8.5117 C1.171,8.5117 0.498,7.8397 0.498,7.0107 C0.498,6.1817 1.171,5.5097 2,5.5097 C2.829,5.5097 3.502,6.1817 3.502,7.0107" id="Fill-3"></path>
+                    <path d="M3.502,12.5156 C3.502,13.3456 2.829,14.0176 2,14.0176 C1.171,14.0176 0.498,13.3456 0.498,12.5156 C0.498,11.6866 1.171,11.0146 2,11.0146 C2.829,11.0146 3.502,11.6866 3.502,12.5156" id="Fill-5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

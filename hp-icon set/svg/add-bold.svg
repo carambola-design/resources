@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>add-bold</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="add-bold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M18.997,10.998 L12.999,10.998 L12.999,5 C12.999,4.448 12.551,4 11.999,4 L11.997,4 C11.445,4 10.997,4.448 10.997,5 L10.997,10.998 L5,10.998 C4.447,10.998 4,11.446 4,11.998 L4,12 C4,12.552 4.447,13 5,13 L10.997,13 L10.997,18.998 C10.997,19.55 11.445,19.998 11.997,19.998 L11.999,19.998 C12.551,19.998 12.999,19.55 12.999,18.998 L12.999,13 L18.997,13 C19.549,13 19.997,12.552 19.997,12 L19.997,11.998 C19.997,11.446 19.549,10.998 18.997,10.998" id="Fill-1" fill="#231F20"></path>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>angle-left</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="angle-left">
+            <g>
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M9.1709,11.999 L15.8889,5.282 C16.0839,5.086 16.0839,4.77 15.8889,4.575 C15.6929,4.38 15.3769,4.379 15.1819,4.575 L8.1099,11.645 C7.9149,11.841 7.9149,12.157 8.1099,12.353 L15.1819,19.424 C15.3769,19.619 15.6929,19.619 15.8889,19.424 C16.0839,19.228 16.0839,18.912 15.8889,18.717 L9.1709,11.999 Z" id="Fill-1" fill="#020302"></path>
+            </g>
+        </g>
+    </g>
+</svg>

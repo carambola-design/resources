@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>check-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="check-circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(3.000000, 3.000000)" fill="#231F20">
+            <path d="M9,17 C4.589,17 1,13.411 1,9 C1,4.589 4.589,1 9,1 C13.411,1 17,4.589 17,9 C17,13.411 13.411,17 9,17 M9,0 C4.029,0 0,4.029 0,9 C0,13.971 4.029,18 9,18 C13.971,18 18,13.971 18,9 C18,4.029 13.971,0 9,0" id="Fill-1"></path>
+            <path d="M12.6006,5.8276 L7.2946,11.1336 L5.5246,9.3636 C5.3296,9.1686 5.0126,9.1686 4.8176,9.3636 C4.6216,9.5586 4.6216,9.8756 4.8176,10.0706 L6.9366,12.1896 C6.9376,12.1906 6.9376,12.1916 6.9386,12.1926 C7.1336,12.3876 7.4506,12.3886 7.6446,12.1936 L13.3056,6.5326 C13.4996,6.3386 13.4986,6.0216 13.3046,5.8266 C13.1106,5.6336 12.7946,5.6336 12.6006,5.8276" id="Fill-3"></path>
+        </g>
+    </g>
+</svg>

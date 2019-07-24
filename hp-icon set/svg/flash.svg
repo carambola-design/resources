@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>flash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flash">
+            <g>
+                <polygon id="Fill-3" points="0 24 24 24 24 0 0 0"></polygon>
+                <path d="M12,20.0215 C11.93,20.0215 11.858,20.0065 11.79,19.9755 C11.54,19.8595 11.431,19.5625 11.546,19.3115 L14.695,12.4945 L8.501,12.5105 L8.5,12.5105 C8.329,12.5105 8.171,12.4235 8.079,12.2805 C7.986,12.1355 7.975,11.9555 8.047,11.7995 L11.547,4.2895 C11.664,4.0375 11.961,3.9285 12.211,4.0465 C12.462,4.1635 12.57,4.4605 12.453,4.7105 L9.285,11.5085 L15.478,11.4925 L15.479,11.4925 C15.648,11.4925 15.808,11.5795 15.899,11.7225 C15.991,11.8665 16.004,12.0465 15.933,12.2025 L12.454,19.7315 C12.369,19.9145 12.188,20.0215 12,20.0215" id="Fill-1" fill="#221F20"></path>
+            </g>
+        </g>
+    </g>
+</svg>

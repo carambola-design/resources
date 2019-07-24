@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>upload-bold</title>
+    <desc>Created with Sketch.</desc>
+    <g id="upload-bold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7" transform="translate(5.000000, 4.000000)" fill="#000000">
+            <g id="Group-5">
+                <path d="M13,14.5 L1,14.5 C0.447,14.5 0,14.948 0,15.5 C0,16.052 0.447,16.5 1,16.5 L13,16.5 C13.553,16.5 14,16.052 14,15.5 C14,14.948 13.553,14.5 13,14.5" id="Fill-1"></path>
+                <path d="M4.167,5.2627 L5.999,3.4307 L5.999,11.9987 C5.999,12.5517 6.447,12.9997 7,12.9997 C7.553,12.9997 8.001,12.5517 8.001,11.9987 L8.001,3.4247 L9.832,5.2557 C10.222,5.6457 10.855,5.6457 11.246,5.2557 C11.637,4.8647 11.637,4.2307 11.246,3.8407 L7.72,0.3137 C7.538,0.1237 7.284,0.0027 7,0.0027 C6.705,0.0027 6.447,0.1357 6.264,0.3377 L2.753,3.8487 C2.363,4.2387 2.361,4.8717 2.753,5.2627 C3.144,5.6537 3.777,5.6527 4.167,5.2627" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

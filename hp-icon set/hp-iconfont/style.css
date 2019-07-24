@@ -1,0 +1,420 @@
+@font-face {
+  font-family: 'hp-iconfont';
+  src:  url('fonts/hp-iconfont.eot?q46v8n');
+  src:  url('fonts/hp-iconfont.eot?q46v8n#iefix') format('embedded-opentype'),
+    url('fonts/hp-iconfont.ttf?q46v8n') format('truetype'),
+    url('fonts/hp-iconfont.woff?q46v8n') format('woff'),
+    url('fonts/hp-iconfont.svg?q46v8n#hp-iconfont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.lnr {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'hp-iconfont' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.upload-bold:before {
+  content: "\e97f";
+}
+.cancel-circle:before {
+  content: "\e97c";
+}
+.check-circle:before {
+  content: "\e97d";
+}
+.reschedule-circle:before {
+  content: "\e97e";
+}
+.add-bold:before {
+  content: "\e97b";
+}
+.file-text:before {
+  content: "\e978";
+}
+.gender:before {
+  content: "\e979";
+}
+.resend:before {
+  content: "\e97a";
+}
+.billing:before {
+  content: "\e973";
+}
+.invoice:before {
+  content: "\e974";
+}
+.payment:before {
+  content: "\e975";
+}
+.void-invoice:before {
+  content: "\e976";
+}
+.void:before {
+  content: "\e977";
+}
+.erase:before {
+  content: "\e972";
+}
+.filter:before {
+  content: "\e970";
+}
+.undo:before {
+  content: "\e971";
+}
+.send:before {
+  content: "\e96f";
+}
+.save:before {
+  content: "\e96e";
+}
+.assistant:before {
+  content: "\e96d";
+}
+.file-audio:before {
+  content: "\e967";
+}
+.file-excel:before {
+  content: "\e968";
+}
+.file-presentation:before {
+  content: "\e969";
+}
+.file-video:before {
+  content: "\e96a";
+}
+.folder:before {
+  content: "\e96b";
+}
+.support:before {
+  content: "\e96c";
+}
+.caret:before {
+  content: "\e964";
+}
+.nonvisible:before {
+  content: "\e965";
+}
+.visible:before {
+  content: "\e966";
+}
+.appointment-cancelled:before {
+  content: "\e95f";
+}
+.appointment-confirmed:before {
+  content: "\e960";
+}
+.appointment-missed:before {
+  content: "\e961";
+}
+.appointment-new:before {
+  content: "\e962";
+}
+.appointment-rescheduled:before {
+  content: "\e963";
+}
+.download:before {
+  content: "\e959";
+}
+.huli:before {
+  content: "\e95a";
+}
+.job:before {
+  content: "\e95b";
+}
+.play:before {
+  content: "\e95c";
+}
+.treatment:before {
+  content: "\e95d";
+}
+.upload:before {
+  content: "\e95e";
+}
+.flash:before {
+  content: "\e952";
+}
+.flip-camera:before {
+  content: "\e953";
+}
+.rotate-left:before {
+  content: "\e954";
+}
+.rotate-right:before {
+  content: "\e955";
+}
+.file-pdf:before {
+  content: "\e956";
+}
+.file-other:before {
+  content: "\e957";
+}
+.positive:before {
+  content: "\e958";
+}
+.summary:before {
+  content: "\e951";
+}
+.menu:before {
+  content: "\e950";
+}
+.add:before {
+  content: "\e900";
+}
+.age-adult:before {
+  content: "\e901";
+}
+.age-elder:before {
+  content: "\e902";
+}
+.age-kid:before {
+  content: "\e903";
+}
+.age-baby:before {
+  content: "\e904";
+}
+.arrow-down:before {
+  content: "\e905";
+}
+.arrow-left:before {
+  content: "\e906";
+}
+.arrow-right:before {
+  content: "\e907";
+}
+.arrow-up:before {
+  content: "\e908";
+}
+.badge:before {
+  content: "\e909";
+}
+.basic-info:before {
+  content: "\e90a";
+}
+.birthday:before {
+  content: "\e90b";
+}
+.calendar-h:before {
+  content: "\e90c";
+}
+.calendar:before {
+  content: "\e90d";
+}
+.camera:before {
+  content: "\e90e";
+}
+.card:before {
+  content: "\e90f";
+}
+.warning:before {
+  content: "\e910";
+}
+.chat:before {
+  content: "\e911";
+}
+.check:before {
+  content: "\e912";
+}
+.checkup:before {
+  content: "\e913";
+}
+.clinic:before {
+  content: "\e914";
+}
+.clock:before {
+  content: "\e915";
+}
+.close:before {
+  content: "\e916";
+}
+.code:before {
+  content: "\e917";
+}
+.copy:before {
+  content: "\e918";
+}
+.credit-card:before {
+  content: "\e919";
+}
+.delete:before {
+  content: "\e91a";
+}
+.angle-down:before {
+  content: "\e91b";
+}
+.downgrade:before {
+  content: "\e91c";
+}
+.drop:before {
+  content: "\e91d";
+}
+.edit:before {
+  content: "\e91e";
+}
+.export:before {
+  content: "\e91f";
+}
+.feedback:before {
+  content: "\e920";
+}
+.flag:before {
+  content: "\e921";
+}
+.gender-boy:before {
+  content: "\e922";
+}
+.gender-female:before {
+  content: "\e923";
+}
+.gender-girl:before {
+  content: "\e924";
+}
+.gender-male:before {
+  content: "\e925";
+}
+.heart-solid:before {
+  content: "\e926";
+}
+.heart:before {
+  content: "\e927";
+}
+.help:before {
+  content: "\e928";
+}
+.id:before {
+  content: "\e929";
+}
+.image:before {
+  content: "\e92a";
+}
+.info:before {
+  content: "\e92b";
+}
+.laboratory:before {
+  content: "\e92c";
+}
+.language:before {
+  content: "\e92d";
+}
+.angle-left:before {
+  content: "\e92e";
+}
+.lock:before {
+  content: "\e92f";
+}
+.logout:before {
+  content: "\e930";
+}
+.medical-history:before {
+  content: "\e931";
+}
+.merge:before {
+  content: "\e932";
+}
+.message:before {
+  content: "\e933";
+}
+.negative:before {
+  content: "\e934";
+}
+.no:before {
+  content: "\e935";
+}
+.note:before {
+  content: "\e936";
+}
+.notification:before {
+  content: "\e937";
+}
+.options:before {
+  content: "\e938";
+}
+.phone-home:before {
+  content: "\e939";
+}
+.phone-mobile:before {
+  content: "\e93a";
+}
+.phone-office:before {
+  content: "\e93b";
+}
+.phone:before {
+  content: "\e93c";
+}
+.place:before {
+  content: "\e93d";
+}
+.print:before {
+  content: "\e93e";
+}
+.profile:before {
+  content: "\e93f";
+}
+.records:before {
+  content: "\e940";
+}
+.refresh-no:before {
+  content: "\e941";
+}
+.refresh:before {
+  content: "\e942";
+}
+.angle-right:before {
+  content: "\e943";
+}
+.search:before {
+  content: "\e944";
+}
+.settings:before {
+  content: "\e945";
+}
+.share:before {
+  content: "\e946";
+}
+.sort:before {
+  content: "\e947";
+}
+.star-solid-half:before {
+  content: "\e948";
+}
+.star-solid:before {
+  content: "\e949";
+}
+.star:before {
+  content: "\e94a";
+}
+.view-table:before {
+  content: "\e94b";
+}
+.tag:before {
+  content: "\e94c";
+}
+.unlock:before {
+  content: "\e94d";
+}
+.angle-up:before {
+  content: "\e94e";
+}
+.upgrade:before {
+  content: "\e94f";
+}

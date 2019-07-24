@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>table</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="table">
+            <g id="view-table">
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M4,7.005 L20,7.005 L20,5.005 L4,5.005 L4,7.005 Z M20.5,4.005 L3.5,4.005 C3.224,4.005 3,4.229 3,4.505 L3,7.505 C3,7.781 3.224,8.005 3.5,8.005 L20.5,8.005 C20.776,8.005 21,7.781 21,7.505 L21,4.505 C21,4.229 20.776,4.005 20.5,4.005 L20.5,4.005 Z" id="Fill-1" fill="#221F20"></path>
+                <path d="M4,13.011 L20,13.011 L20,11.011 L4,11.011 L4,13.011 Z M20.5,10.011 L3.5,10.011 C3.224,10.011 3,10.234 3,10.511 L3,13.511 C3,13.787 3.224,14.011 3.5,14.011 L20.5,14.011 C20.776,14.011 21,13.787 21,13.511 L21,10.511 C21,10.234 20.776,10.011 20.5,10.011 L20.5,10.011 Z" id="Fill-3" fill="#221F20"></path>
+                <path d="M4,19.017 L20,19.017 L20,17.017 L4,17.017 L4,19.017 Z M20.5,16.017 L3.5,16.017 C3.224,16.017 3,16.24 3,16.517 L3,19.517 C3,19.793 3.224,20.017 3.5,20.017 L20.5,20.017 C20.776,20.017 21,19.793 21,19.517 L21,16.517 C21,16.24 20.776,16.017 20.5,16.017 L20.5,16.017 Z" id="Fill-4" fill="#221F20"></path>
+            </g>
+        </g>
+    </g>
+</svg>

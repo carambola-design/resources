@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>save</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="save">
+            <g>
+                <polygon id="bounds" points="0 24 24 24 24 0 0 0"></polygon>
+                <path d="M20,20 L17.5,20 L17.5,13.5 C17.5,12.673 16.827,12 16,12 L8,12 C7.173,12 6.5,12.673 6.5,13.5 L6.5,20 L4,20 L4,4 L7.496,4 L7.496,7.5 C7.496,8.327 8.169,9 8.996,9 L14.996,9 C15.823,9 16.496,8.327 16.496,7.5 L16.496,4 L17.798,4 L20,6.211 L20,20 Z M16.5,20 L7.5,20 L7.5,13.5 C7.5,13.224 7.724,13 8,13 L16,13 C16.276,13 16.5,13.224 16.5,13.5 L16.5,20 Z M13.906,4 L15.496,4 L15.496,7.5 C15.496,7.776 15.272,8 14.996,8 L13.906,8 L13.906,4 Z M8.496,4 L12.906,4 L12.906,8 L8.996,8 C8.72,8 8.496,7.776 8.496,7.5 L8.496,4 Z M20.854,5.651 L18.359,3.147 C18.266,3.053 18.138,3 18.005,3 L3.5,3 C3.224,3 3,3.224 3,3.5 L3,20.5 C3,20.776 3.224,21 3.5,21 L20.5,21 C20.776,21 21,20.776 21,20.5 L21,6.004 C21,5.872 20.948,5.745 20.854,5.651 L20.854,5.651 Z" id="Fill-1" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

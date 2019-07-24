@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>star-solid-half</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="star-solid-half" fill="#221F20">
+            <g id="Page-1" transform="translate(2.000000, 3.000000)">
+                <path d="M10,0.3931 C9.821,0.3941 9.662,0.4971 9.592,0.6601 L7.269,6.0681 L1.362,6.6311 C1.185,6.6481 1.035,6.7691 0.981,6.9391 C0.928,7.1081 0.98,7.2941 1.115,7.4101 L5.541,11.2081 L4.25,17.0681 C4.212,17.2381 4.281,17.4191 4.424,17.5211 C4.501,17.5781 4.593,17.6061 4.685,17.6061 C4.763,17.6061 4.841,17.5861 4.911,17.5441 L10,14.5241 L10,0.3931 Z" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

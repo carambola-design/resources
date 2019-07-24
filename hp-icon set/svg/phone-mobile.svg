@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>phone-mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phone-mobile" fill="#221F20">
+            <g id="Page-1" transform="translate(6.000000, 3.000000)">
+                <g id="Group-5">
+                    <path d="M6,16.5 C6.276,16.5 6.5,16.276 6.5,16 C6.5,15.724 6.276,15.5 6,15.5 C5.724,15.5 5.5,15.724 5.5,16 C5.5,16.276 5.724,16.5 6,16.5 L6,16.5 Z" id="Fill-1"></path>
+                    <path d="M1.5,2.033 L10.5,2.033 L10.5,1 L1.5,1 L1.5,2.033 Z M1.5,14.016 L10.5,14.016 L10.5,3.034 L1.5,3.034 L1.5,14.016 Z M1.5,17 L10.5,17 L10.5,15.016 L1.5,15.016 L1.5,17 Z M11,0 L1,0 C0.724,0 0.5,0.224 0.5,0.5 L0.5,2.033 L0.5,3.033 L0.5,14.016 L0.5,15.016 L0.5,17.5 C0.5,17.776 0.724,18 1,18 L11,18 C11.276,18 11.5,17.776 11.5,17.5 L11.5,15.016 L11.5,14.016 L11.5,3.033 L11.5,2.033 L11.5,0.5 C11.5,0.224 11.276,0 11,0 L11,0 Z" id="Fill-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

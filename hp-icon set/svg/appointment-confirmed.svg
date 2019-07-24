@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>appointment-confirmed</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="appointment-confirmed">
+            <g>
+                <polygon id="bounds" points="0 24 24 24 24 0 0 0"></polygon>
+                <path d="M19.9346,6.1621 C19.3486,5.5761 18.4006,5.5761 17.8146,6.1621 L9.3436,14.6361 L6.1706,11.4631 C5.5846,10.8761 4.6366,10.8771 4.0506,11.4631 C3.4646,12.0501 3.4646,12.9951 4.0506,13.5821 L8.2446,17.7761 C8.2576,17.7911 8.2616,17.8091 8.2756,17.8231 C8.5706,18.1181 8.9566,18.2641 9.3426,18.2621 C9.7286,18.2641 10.1156,18.1181 10.4106,17.8231 C10.4226,17.8101 10.4266,17.7931 10.4396,17.7791 L19.9346,8.2811 C20.5206,7.6961 20.5216,6.7491 19.9346,6.1621" id="Fill-1" fill="#221F20"></path>
+            </g>
+        </g>
+    </g>
+</svg>
